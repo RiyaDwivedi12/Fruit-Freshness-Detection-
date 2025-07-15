@@ -13,7 +13,7 @@ This is a binary classification project that detects the freshness of fruits lik
 * `fruit_freshness_model.ipynb`: Jupyter Notebook used to preprocess data, build, train, and evaluate the CNN model
 * `fruit_classifier_model.h5`: Trained model file (not uploaded here due to size limits)
 * `dataset`: Image dataset of fresh and rotten fruits (not included in this repository, available via external link)
-* `output/`: Folder containing screenshots of Streamlit app output after deployment and prediction
+* `output`: Folder containing screenshots of Streamlit app output after deployment and prediction
 
 ## Technologies Used
 
@@ -45,7 +45,7 @@ fruit_freshness_detection
 ├── fruit_freshness_model.ipynb  
 ├── fruit_classifier_model.h5 (not uploaded)  
 ├── dataset (not uploaded)  
-├── output/  ← contains Streamlit app output screenshots  
+├── output  ← contains Streamlit app output screenshots  
 
 
 ## Author
