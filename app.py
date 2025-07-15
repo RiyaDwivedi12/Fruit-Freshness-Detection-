@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import tensorflow as tf
 import numpy as np
@@ -116,4 +115,4 @@ if uploaded_file is not None:
     )
 else:
     st.info("👆 Please upload an image file to begin.")
->>>>>>> 2a0e9f45d3c51f1c2f3eba687c79368b6ef132d0
+
